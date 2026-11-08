@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.BaggageFeeCalculator"
+        parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/baggage_primary</item>
+        <item name="android:statusBarColor">@color/baggage_primary</item>
+        <item name="android:navigationBarColor">@color/baggage_background</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+
+    <style name="BaggagePopupTheme"
+        parent="ThemeOverlay.AppCompat.Light">
+        <item name="android:colorBackground">#FFFFFF</item>
+        <item name="colorBackgroundFloating">#FFFFFF</item>
+        <item name="android:colorBackgroundFloating">#FFFFFF</item>
+        <item name="android:textColorPrimary">#1F2937</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+</resources>

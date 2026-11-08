@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="baggage_primary">#263F60</color>
+    <color name="baggage_secondary">#475569</color>
+    <color name="baggage_background">#121826</color>
+    <color name="baggage_text_primary">#E2E8F0</color>
+    <color name="baggage_text_secondary">#CBD5E1</color>
+    <color name="baggage_instruction_background">#26364C</color>
+    <color name="baggage_results_background">#1E293B</color>
+    <color name="baggage_total_background">#1B4034</color>
+    <color name="baggage_total_text">#A7F3D0</color>
+    <color name="baggage_link">#93C5FD</color>
+</resources>
